@@ -1,0 +1,14 @@
+/* body {
+    background-image: url("/image/OIP\ \(2\).jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  } */
+ @card-img-top{ img{
+    height: 30px;
+    width: 20%;
+  }}
+    
+    
+  
+  
